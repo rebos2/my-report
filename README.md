@@ -1,5 +1,7 @@
 ## Главная страница
 
-[Реферат](Referat.docx)
+[Реферат](Public_Referat.md)
 
-[Отчет](Otchet.docx)
+[Скачать Реферат](Referat.docx)
+
+[Скачать Отчет](Otchet.docx)
