@@ -1,3 +1,3 @@
 ## Главная страница
 
-[Реферат](https://github.com/rebos2/my-report/Referat.docx)
+[Реферат](Referat.docx)
