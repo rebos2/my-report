@@ -2,9 +2,8 @@
 
 [Реферат](Public_Referat.md)
 
-[Скачать Реферат](Referat.docx)
+[Скачать реферат](Referat.docx)
 
-[Скачать Отчет](Otchet.docx)
-
+[Скачать отчет](Otchet.docx)
 
 [Ссылка на исходные файлы](https://github.com/rebos2/my-report)
