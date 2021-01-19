@@ -216,12 +216,12 @@ wikipedia.org.
 
 ## **Список использованной литературы.**
 
-1.  <https://ru.wikipedia.org/wiki/Коллективный_интеллект>
+1.  [**https://ru.wikipedia.org/wiki/Коллективный_интеллект**](https://ru.wikipedia.org/wiki/Коллективный_интеллект)
 
-2.  <https://ru.wikipedia.org/wiki/Краудсорсинг>
+2.  [**https://ru.wikipedia.org/wiki/Краудсорсинг**](https://ru.wikipedia.org/wiki/Краудсорсинг)
 
-3.  <https://ru.wikipedia.org/wiki/Википедия>
+3.  [**https://ru.wikipedia.org/wiki/Википедия**](https://ru.wikipedia.org/wiki/Википедия)
 
-4.  <https://www.forbes.ru/tehnologii/340551-kak-kollektivnyy-intellekt-lyudey-i-robotov-mozhet-predskazyvat-budushchee>
+4.  [**https://www.forbes.ru/tehnologii/340551-kak-kollektivnyy-intellekt-lyudey-i-robotov-mozhet-predskazyvat-budushchee**](https://www.forbes.ru/tehnologii/340551-kak-kollektivnyy-intellekt-lyudey-i-robotov-mozhet-predskazyvat-budushchee)
 
-5.  <https://info-farm.ru/alphabet_index/k/kollektivnyjj-intellekt.html>
+5.  [**https://info-farm.ru/alphabet_index/k/kollektivnyjj-intellekt.html**](https://info-farm.ru/alphabet_index/k/kollektivnyjj-intellekt.html)
